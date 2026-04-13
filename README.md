@@ -11,6 +11,7 @@ This repository contains molecular dynamics analysis scripts used for GPCR simul
 - RMSF analysis
 - Ion interaction analysis
 - 3D ion distribution visualization
+- Crosslinking pair distance analysis
 
 ## Repository structure
 
